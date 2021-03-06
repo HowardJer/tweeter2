@@ -6,4 +6,4 @@ user = "innotech"
 
 password = "Haj37ccA"
 
-database = "fullstack_blog"
+database = "tweeter2"
